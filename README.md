@@ -2,7 +2,7 @@
 
 I’m an AI Solutions Architect with a focus on process automation.
 
-I do lots of silly coding stuff, mostly developing games in GODOT.
+I do lots of silly coding stuff.
 
 ---
 
